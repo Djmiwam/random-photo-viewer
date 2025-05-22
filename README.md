@@ -1,4 +1,4 @@
-random-photo-viewer/
+random-photo-viewer-new/
 ├── index.html
 ├── photos/
 │   ├── photo1.jpg
