@@ -1,1 +1,7 @@
-# random-photo-viewer
+random-photo-viewer/
+├── index.html
+├── photos/
+│   ├── photo1.jpg
+│   ├── photo2.jpg
+├── generate-list.js 
+├── photo-list.js 
